@@ -9,7 +9,7 @@
 ## Actual Statut
 Dev Statut : - ![#EC820A](https://via.placeholder.com/15/EC820A/000000?text=+) `Alpha` \
 Update Statut : ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `Unavailable` \
-Maintenance status : ![#17FF00](https://via.placeholder.com/15/17FF00/000000?text=+) `Available` \
+Maintenance status : ![#17FF00](https://via.placeholder.com/15/17FF00/000000?text=+) `Available` 
 
 ## What is Alpine
 Alpine is a self-help programme of the LISA Class 207 community, which allows the sharing of resources such as exercises and lessons. \
